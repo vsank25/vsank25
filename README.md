@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Veerababu
-- 👀 I’m interested in CyberSecurity And Networks
+- 👀 I’m interested & pursing CyberSecurity And Networks
 - 🌱 I’m currently learning Wireshark
 - 💞️ I’m looking to collaborate on Cybersecurity and Pentesting Organizations
 -  My Portfolio link Here https://veerudev.vercel.app
